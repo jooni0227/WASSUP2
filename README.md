@@ -1,2 +1,4 @@
 # WASSUP2
-WASSUP 2기 
+WASSUP 2기
+
+test
