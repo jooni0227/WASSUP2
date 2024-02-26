@@ -1,4 +1,0 @@
-# WASSUP2
-WASSUP 2기
-
-test
