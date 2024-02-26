@@ -1,0 +1,2 @@
+# WASSUP2
+WASSUP 2기 
