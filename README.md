@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&customColorList=4,4,4&height=300&section=header&text=WASSUP%202&20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,4,4,4,3&height=300&section=header&text=WASSUP%202&20render&fontSize=90)
 
 
 이스트소프트 WASSUP 2기
