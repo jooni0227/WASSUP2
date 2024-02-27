@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=250&section=header&text=WASSUP%202&20render&fontSize=90&fontColor=FFFFFF&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=4&height=250&section=header&text=WASSUP%202&20render&fontSize=90&fontColor=FFFFFF&animation=blinking)
 
 
 
