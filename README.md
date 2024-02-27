@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=blue)
+![header](https://capsule-render.vercel.app/api?type=soft&color="blue")
 
 이스트소프트 WASSUP 2기
 
