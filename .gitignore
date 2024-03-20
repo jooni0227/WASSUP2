@@ -12,6 +12,9 @@ dataset/
 # sample
 sample/
 
+# data
+data/
+
 # Distribution / packaging
 .Python
 build/
